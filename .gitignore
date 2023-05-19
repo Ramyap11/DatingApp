@@ -1,0 +1,5 @@
+node_modules
+client/README.md
+client/.browserslistrc
+client/.editorconfig
+API/appsettings.json
